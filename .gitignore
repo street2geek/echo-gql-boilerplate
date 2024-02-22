@@ -28,3 +28,5 @@ docs
 
 # Go
 __debug_bin
+
+.env
