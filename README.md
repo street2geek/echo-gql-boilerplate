@@ -5,7 +5,7 @@ Api base
 
 In order to run this API locally, please make sure you have the next dependencies:
 
-    go version 1.11.4 or above
+    go version 1.22 or above
 
 And ensure that the `go` command is available in the path by running the command:
 
@@ -24,14 +24,6 @@ To run the API you will need to download the project libraries:
 In order to build the API, run the next command:
 
     go build
-
-This will generate an executable file according your operating system, for example for GNU/Linux:
-
-    ./boootstrap
-
-Or for example for Windows:
-
-    .\boootstrap.exe
 
 ### Running the API
 
